@@ -1,4 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=4CF789&lines=Welcome...I'm+Minty+Jones...a.k.a+Gordon+Campbell++)](https://git.io/typing-svg)
+
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
+- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `#c5f015`
+- ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`
+
   
 
 <a href="https://github.com/mintyjones" target="_blank">
