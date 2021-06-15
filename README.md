@@ -41,7 +41,7 @@ Nothing's impossible. Anything's possible.
 
 
 
-## Projects to take a look at...  
+## Personal projects to take a look at...  
 - ### [React Caffeine Locator](https://github.com/mintyjones/react-caffeine-locator)  
   
 
