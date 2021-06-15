@@ -42,13 +42,13 @@ Nothing's impossible. Anything's possible.
 
 
 ## Projects to take a look at...  
-### - [React Caffeine Locator](https://github.com/mintyjones/react-caffeine-locator)  
+- ### [React Caffeine Locator](https://github.com/mintyjones/react-caffeine-locator)  
   
 
-- [Terminal RPSG (Role Playing Spelling Game)](https://github.com/mintyjones/Role_Playing_Spelling_Game)  
+- ### [Terminal RPSG (Role Playing Spelling Game)](https://github.com/mintyjones/Role_Playing_Spelling_Game)  
   
 
-- [Rails 2-way Service Booking app](https://github.com/mintyjones/2-Way-Service-Booking-App)  
+- ### [Rails 2-way Service Booking app](https://github.com/mintyjones/2-Way-Service-Booking-App)  
 
 
 
