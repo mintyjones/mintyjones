@@ -1,12 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=4CF789&lines=Welcome...I'm+Minty+Jones...a.k.a+Gordon+Campbell++)](https://git.io/typing-svg)
 
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-## @@ ## text in purple (and bold)@@
-```
 
   
 
