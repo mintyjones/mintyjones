@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=4CF789&lines=Welcome...I'm+Minty+Jones...a.k.a+Gordon+Campbell++)](https://git.io/typing-svg)
-
 ![Welcome message](./welcome.png)
   
 
