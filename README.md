@@ -1,4 +1,4 @@
-##  Welcome...I'm Minty Jones...a.k.a Gordon Campbell  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=4CF789&lines=Welcome...I'm+Minty+Jones...a.k.a+Gordon+Campbell++)](https://git.io/typing-svg)
   
 
 <a href="https://github.com/mintyjones" target="_blank">
@@ -102,4 +102,4 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+<!-- <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up."> -->
