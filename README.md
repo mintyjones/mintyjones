@@ -26,7 +26,7 @@
 
 
 
-### A little bit...  
+## A little bit...  
 I've been coding since I was 9 years old, starting with programming BASIC on my old Commodore 64.
 
 Since then I was self taught in Actionscript 3.0 and programmed software in this archaic language.
@@ -41,7 +41,7 @@ Nothing's impossible. Anything's possible.
 
 
 
-### Projects to take a look at...  
+## Projects to take a look at...  
 - [React Caffeine Locator](https://github.com/mintyjones/react-caffeine-locator)  
   
 
