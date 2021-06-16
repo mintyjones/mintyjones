@@ -94,7 +94,11 @@ Nothing's impossible. Anything's possible.
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 08 June, 2021 - 15 June, 2021
+
+Other        6 hrs 57 mins   ██████████████████████▒░░   89.90 % 
+JavaScript   36 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+Markdown     10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 ```
 <!--END_SECTION:waka-->
 
