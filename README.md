@@ -94,13 +94,13 @@ Nothing's impossible. Anything's possible.
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 July, 2021 - 10 July, 2021
+Week: 05 July, 2021 - 11 July, 2021
 
-Other        11 hrs          ██████████████████░░░░░░░   72.08 % 
-JavaScript   3 hrs 43 mins   ██████░░░░░░░░░░░░░░░░░░░   24.40 % 
-JSON         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
-YAML         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-HTML         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Other        7 hrs 59 mins   █████████████████▒░░░░░░░   69.21 % 
+JavaScript   3 hrs 4 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.58 % 
+JSON         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+YAML         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+JSX          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 ```
 <!--END_SECTION:waka-->
 
