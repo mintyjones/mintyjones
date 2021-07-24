@@ -94,11 +94,11 @@ Nothing's impossible. Anything's possible.
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 July, 2021 - 22 July, 2021
+Week: 17 July, 2021 - 23 July, 2021
 
-Other        41 mins         ████████████▓░░░░░░░░░░░░   50.77 % 
-JavaScript   28 mins         ████████▓░░░░░░░░░░░░░░░░   35.18 % 
-JSON         11 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+Markdown     53 mins         ███████████████▒░░░░░░░░░   61.35 % 
+JavaScript   27 mins         ████████░░░░░░░░░░░░░░░░░   31.71 % 
+JSON         6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
 ```
 <!--END_SECTION:waka-->
 
