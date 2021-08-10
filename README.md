@@ -94,13 +94,11 @@ Nothing's impossible. Anything's possible.
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 August, 2021 - 08 August, 2021
+Week: 03 August, 2021 - 09 August, 2021
 
-JavaScript   37 hrs 44 mins  ████████████████████████▒   97.48 % 
-CSS          29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-JSON         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
-Other        10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
-HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+JavaScript   31 hrs 27 mins  ████████████████████████▓   98.42 % 
+CSS          28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 ```
 <!--END_SECTION:waka-->
 
