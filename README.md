@@ -94,11 +94,7 @@ Nothing's impossible. Anything's possible.
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 August, 2021 - 26 August, 2021
-
-JavaScript   1 hr 7 mins     ████████████████████▒░░░░   81.25 % 
-Ruby         13 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
-JSON         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
