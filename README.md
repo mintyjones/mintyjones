@@ -94,7 +94,10 @@ Nothing's impossible. Anything's possible.
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 25 August, 2021 - 31 August, 2021
+
+Other   42 mins         ████████████████████████▒   97.16 % 
+JSON    1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
 ```
 <!--END_SECTION:waka-->
 
