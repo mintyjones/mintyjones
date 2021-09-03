@@ -94,7 +94,7 @@ Nothing's impossible. Anything's possible.
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 August, 2021 - 01 September, 2021
+Week: 27 August, 2021 - 02 September, 2021
 
 Other   44 mins         ██████████████████████░░░   88.19 % 
 Bash    4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
