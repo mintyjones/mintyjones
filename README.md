@@ -94,7 +94,7 @@ Nothing's impossible. Anything's possible.
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 September, 2021 - 10 September, 2021
+Week: 05 September, 2021 - 11 September, 2021
 
 Ruby         1 hr 36 mins    ██████████████████▒░░░░░░   72.81 % 
 JavaScript   15 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
