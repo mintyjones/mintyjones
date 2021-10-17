@@ -94,7 +94,7 @@ Nothing's impossible. Anything's possible.
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 October, 2021 - 15 October, 2021
+Week: 10 October, 2021 - 16 October, 2021
 
 Ruby         9 hrs 18 mins   ████████████████░░░░░░░░░   63.72 % 
 ERB          2 hrs 34 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.68 % 
