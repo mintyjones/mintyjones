@@ -94,13 +94,13 @@ Nothing's impossible. Anything's possible.
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 November, 2021 - 02 December, 2021
+Week: 27 November, 2021 - 03 December, 2021
 
-Ruby         2 hrs 9 mins    ███████████░░░░░░░░░░░░░░   44.58 % 
-ERB          2 hrs 6 mins    ███████████░░░░░░░░░░░░░░   43.49 % 
-YAML         13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-JavaScript   13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-Markdown     8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+Ruby         3 hrs 4 mins    ███████████▒░░░░░░░░░░░░░   45.96 % 
+ERB          2 hrs 44 mins   ██████████▒░░░░░░░░░░░░░░   41.11 % 
+Markdown     22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+YAML         15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+JavaScript   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
 ```
 <!--END_SECTION:waka-->
 
