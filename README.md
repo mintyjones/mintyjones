@@ -94,7 +94,7 @@ Nothing's impossible. Anything's possible.
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 December, 2021 - 21 December, 2021
+Week: 16 December, 2021 - 22 December, 2021
 
 Ruby         6 hrs 39 mins   ████████████████████████▓   98.34 % 
 JavaScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
