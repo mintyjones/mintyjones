@@ -94,7 +94,7 @@ Nothing's impossible. Anything's possible.
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 January, 2022 - 08 January, 2022
+Week: 03 January, 2022 - 09 January, 2022
 
 ERB      4 hrs 10 mins   ████████████████▓░░░░░░░░   66.76 % 
 Python   1 hr 21 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.84 % 
