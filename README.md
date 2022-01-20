@@ -94,12 +94,13 @@ Nothing's impossible. Anything's possible.
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 January, 2022 - 18 January, 2022
+Week: 13 January, 2022 - 19 January, 2022
 
-Ruby         8 hrs 55 mins   █████████████████████▒░░░   85.81 % 
-TypeScript   42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-ERB          39 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
-Markdown     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+Ruby         6 hrs 32 mins   ████████████████████▒░░░░   81.68 % 
+TypeScript   42 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+ERB          20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+JavaScript   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 ```
 <!--END_SECTION:waka-->
 
