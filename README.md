@@ -94,7 +94,7 @@ Nothing's impossible. Anything's possible.
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 January, 2022 - 21 January, 2022
+Week: 16 January, 2022 - 22 January, 2022
 
 Ruby         3 hrs 54 mins   ███████████████████░░░░░░   76.19 % 
 TypeScript   42 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.82 % 
