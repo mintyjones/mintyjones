@@ -93,11 +93,14 @@ Nothing's impossible. Anything's possible.
 <br/>
 
 <!--START_SECTION:waka-->
-```text
-From: 18 February, 2022 - To: 25 February, 2022
 
-Ruby    3 hrs 48 mins   █████████████████████████   99.95 % 
+```text
+From: 20 February 2022 - To: 27 February 2022
+
+Ruby    3 hrs 48 mins   █████████████████████████   99.95 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
+
 <!--END_SECTION:waka-->
 
 <!-- <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up."> -->
