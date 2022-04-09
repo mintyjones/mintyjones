@@ -95,7 +95,7 @@ Nothing's impossible. Anything's possible.
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 March 2022 - To: 07 April 2022
+From: 01 April 2022 - To: 08 April 2022
 
 Ruby       4 hrs 58 mins   ███████████████████████▒░   93.79 %
 Markdown   15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
