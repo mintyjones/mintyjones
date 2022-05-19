@@ -95,13 +95,13 @@ Nothing's impossible. Anything's possible.
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 May 2022 - To: 17 May 2022
+From: 11 May 2022 - To: 18 May 2022
 
-Bash         16 mins         ███████████▒░░░░░░░░░░░░░   44.79 %
-ERB          8 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.05 %
-TypeScript   6 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.71 %
-Markdown     4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.03 %
-Ruby         2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
+Ruby         38 mins         █████████████░░░░░░░░░░░░   51.52 %
+Bash         16 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.96 %
+ERB          8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 %
+TypeScript   6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
+Markdown     4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
 ```
 
 <!--END_SECTION:waka-->
