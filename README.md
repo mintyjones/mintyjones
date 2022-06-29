@@ -95,10 +95,10 @@ Nothing's impossible. Anything's possible.
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 June 2022 - To: 27 June 2022
+From: 21 June 2022 - To: 28 June 2022
 
-Ruby         1 hr 16 mins    ██████████████████████░░░   88.12 %
-TypeScript   10 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 %
+Ruby         1 hr 16 mins    ███████████████████████▒░   93.62 %
+TypeScript   5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
 ```
 
 <!--END_SECTION:waka-->
