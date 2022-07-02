@@ -95,12 +95,14 @@ Nothing's impossible. Anything's possible.
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 June 2022 - To: 30 June 2022
+From: 24 June 2022 - To: 01 July 2022
 
-Text    2 hrs 5 mins    █████████░░░░░░░░░░░░░░░░   35.82 %
-SQL     1 hr 59 mins    ████████▓░░░░░░░░░░░░░░░░   34.16 %
-Ruby    1 hr 33 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.72 %
-Other   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+Text         2 hrs 5 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.60 %
+SQL          2 hrs           ██████░░░░░░░░░░░░░░░░░░░   24.59 %
+Ruby         1 hr 41 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.68 %
+ERB          1 hr 30 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.53 %
+JavaScript   39 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 %
+Other        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
 ```
 
 <!--END_SECTION:waka-->
