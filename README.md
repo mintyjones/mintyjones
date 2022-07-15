@@ -95,12 +95,7 @@ Nothing's impossible. Anything's possible.
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 July 2022 - To: 13 July 2022
-
-Bash   17 mins         ████████████████████████░   95.87 %
-Ruby   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
-YAML   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
-ERB    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
