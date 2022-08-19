@@ -95,9 +95,11 @@ Nothing's impossible. Anything's possible.
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 August 2022 - To: 16 August 2022
+From: 11 August 2022 - To: 18 August 2022
 
-Other        1 hr 20 mins    ████████████████████░░░░░   79.97 %
+HTML         47 mins         ████████▓░░░░░░░░░░░░░░░░   35.22 %
+TypeScript   25 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.51 %
+Other        23 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.58 %
 ```
 
 <!--END_SECTION:waka-->
