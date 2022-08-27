@@ -95,11 +95,13 @@ Nothing's impossible. Anything's possible.
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 August 2022 - To: 25 August 2022
+From: 19 August 2022 - To: 26 August 2022
 
-JSON       15 mins         █████████████████▓░░░░░░░   70.88 %
-SCSS       3 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.27 %
-Markdown   3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.85 %
+Ruby         1 hr 27 mins    █████████████████████░░░░   83.78 %
+ERB          12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.32 %
+SCSS         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
