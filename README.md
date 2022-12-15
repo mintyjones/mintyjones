@@ -95,7 +95,10 @@ Nothing's impossible. Anything's possible.
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 07 December 2022 - To: 14 December 2022
+
+Markdown   11 mins         ███████████████████████▓░   94.38 %
+Ruby       0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 %
 ```
 
 <!--END_SECTION:waka-->
