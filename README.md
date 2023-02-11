@@ -95,9 +95,9 @@ Nothing's impossible. Anything's possible.
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 February 2023 - To: 09 February 2023
+From: 03 February 2023 - To: 10 February 2023
 
-Other   25 mins         █████████████████████░░░░   83.67 %
+Other        25 mins         ███████████████▒░░░░░░░░░   61.18 %
 ```
 
 <!--END_SECTION:waka-->
